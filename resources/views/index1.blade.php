@@ -2030,7 +2030,7 @@ flexibility(document.documentElement);
                                                 <div id="audio-container" class="audio-box">
 
                                                     <audio id="song" loop>
-                                                        <source src="{{ asset('adera.mp3') }}" type="audio/mp3">
+                                                        <source src="{{ asset('sepanjang_hidup.mp3') }}" type="audio/mp3">
                                                     </audio>
 
                                                     <div class="elementor-icon-wrapper" id="unmute-sound" style="display: none;">
@@ -2581,7 +2581,7 @@ flexibility(document.documentElement);
                                                                                 <span class="elementor-icon-list-text">Kediaman Mempelai Wanita</span>
                                                                             </li>
                                                                             <li class="elementor-icon-list-item">
-                                                                                <span class="elementor-icon-list-text">Jl.Ciaul Pasir RT/RW 007/003 Desa Sukaraja, Kec. Sukaraja, Kab. Sukabumi</span>
+                                                                                <span class="elementor-icon-list-text">Jl.Ciaul Pasir RT/RW 007/003 Desa Sukajaya, Kec. Sukabumi, Kab. Sukabumi</span>
                                                                             </li>
                                                                         </ul>
                                                                     </div>
@@ -2676,7 +2676,7 @@ flexibility(document.documentElement);
                                                                                 <span class="elementor-icon-list-text">Kediaman Mempelai Wanita</span>
                                                                             </li>
                                                                             <li class="elementor-icon-list-item">
-                                                                                <span class="elementor-icon-list-text">Jl.Ciaul Pasir RT/RW 007/003 Desa Sukaraja, Kec. Sukaraja, Kab. Sukabumi</span>
+                                                                                <span class="elementor-icon-list-text">Jl.Ciaul Pasir RT/RW 007/003 Desa Sukajaya, Kec. Sukabumi, Kab. Sukabumi</span>
                                                                             </li>
                                                                         </ul>
                                                                     </div>
