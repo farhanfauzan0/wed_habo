@@ -3018,7 +3018,7 @@ flexibility(document.documentElement);
                                                             </div>
 
                                                             <div class="wdp-dear">Kepada Bapak/Ibu/Saudara/i</div>
-                                                            <div class="wdp-name">{{ $tamu }}</div>
+                                                            <div class="wdp-name">{{ str_replace('+',' ',$tamu) }}</div>
                                                             <div class="wdp-text">Mohon maaf bila ada kesalahan pada penulisan nama/gelar</div>
                                                             <div class="wdp-button-wrapper">
                                                                 <button class="elementor-button">
