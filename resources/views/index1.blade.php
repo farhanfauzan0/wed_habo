@@ -33,7 +33,7 @@
     <meta property="og:locale" content="id_ID">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Ani & Hamdan Invitation">
-    <meta property="og:description" content="27 Februari 2022">
+    <meta property="og:description" content="20 November 2022">
     {{-- <meta property="og:url" content="https://intan-rian.subredtis.com/"> --}}
     <meta property="og:site_name" content="Ani & Hamdan Wedding">
     <meta property="article:tag" content="protokol indonesia">
