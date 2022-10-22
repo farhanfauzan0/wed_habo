@@ -1,0 +1,277 @@
+.elementor-kit-459824{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F00;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-kit-459824 button,.elementor-kit-459824 input[type="button"],.elementor-kit-459824 input[type="submit"],.elementor-kit-459824 .elementor-button{background-color:#02010100;}.elementor-kit-459824 button:hover,.elementor-kit-459824 button:focus,.elementor-kit-459824 input[type="button"]:hover,.elementor-kit-459824 input[type="button"]:focus,.elementor-kit-459824 input[type="submit"]:hover,.elementor-kit-459824 input[type="submit"]:focus,.elementor-kit-459824 .elementor-button:hover,.elementor-kit-459824 .elementor-button:focus{background-color:#020101D6;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start custom CSS */.snowpink-bg {
+    position: relative;
+ }
+
+ .snowpink-bg:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2021/07/s1-pink.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s2-pink.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s3-pink.png');
+     animation: snow 25s linear infinite;
+ }
+
+ @keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+ }
+
+
+
+
+ .salju-back {
+    position: relative;
+ }
+
+ .salju-back:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2021/07/s1-putih.png'), url('https://library.elementor.com/resources/christmas-snow-effect/s2.png'), url('https://library.elementor.com/resources/christmas-snow-effect/s3.png');
+     animation: snow 30s linear infinite;
+ }
+
+ @keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+ }
+
+
+ .salju-pink {
+    position: relative;
+ }
+
+ .salju-pink:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2021/12/s1-pink2.png'), url('https://kondangankuy.com/wp-content/uploads/2021/12/s2-pink2.png'), url('https://kondangankuy.com/wp-content/uploads/2021/12/s3-pink2.png');
+     animation: snow 30s linear infinite;
+ }
+
+ @keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+ }
+
+
+ .salju-cherry {
+    position: relative;
+ }
+
+ .salju-cherry:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2021/07/s1-cherry.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s2-cherry.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s3-cherry.png');
+     animation: snow 15s linear infinite;
+ }
+
+ @keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+ }
+
+
+ .salju-green {
+    position: relative;
+ }
+
+ .salju-green:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2021/08/s1-green.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s2-green.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s3-green.png');
+     animation: snow 25s linear infinite;
+ }
+
+ @keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+ }
+
+
+ .salju-blue {
+    position: relative;
+ }
+
+ .salju-blue:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2021/12/s1-blue3.png'), url('https://kondangankuy.com/wp-content/uploads/2021/12/s2-blue3.png'), url('https://kondangankuy.com/wp-content/uploads/2021/12/s3-blue3.png');
+     animation: snow 30s linear infinite;
+ }
+
+ @keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+ }
+
+
+ .salju-sakura {
+    position: relative;
+ }
+
+ .salju-sakura:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2021/08/s1-sakura.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s2-sakura.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s3-sakura.png');
+     animation: snow 10s linear infinite;
+ }
+
+
+ .salju-orange {
+    position: relative;
+ }
+
+ .salju-orange:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2021/07/s1-orange.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s2-orange.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s3-orange.png');
+     animation: snow 25s linear infinite;
+ }
+
+
+ .salju-daun {
+    position: relative;
+ }
+
+ .salju-daun:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2021/08/s1-daun2.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s2-daun2.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s3-daun.png');
+     animation: snow 30s linear infinite;
+ }
+
+
+
+ .salju-purple {
+    position: relative;
+ }
+
+ .salju-purple:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2021/12/s1-purple.png'), url('https://kondangankuy.com/wp-content/uploads/2021/12/s2-purple.png'), url('https://kondangankuy.com/wp-content/uploads/2021/012/s3-purple.png');
+     animation: snow 30s linear infinite;
+ }
+
+
+ .salju-pink2 {
+    position: relative;
+ }
+
+ .salju-pink2:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2021/12/s1-pink2.png'), url('https://kondangankuy.com/wp-content/uploads/2021/12/s2-blue3.png'), url('https://kondangankuy.com/wp-content/uploads/2021/12/s3-pink2.png');
+     animation: snow 30s linear infinite;
+ }
+
+ @keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+ }
+
+
+ .salju-star {
+    position: relative;
+ }
+
+ .salju-star:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    background-image: url('https://kondangankuy.com/wp-content/uploads/2022/01/s1-star.png'), url('https://library.elementor.com/resources/christmas-snow-effect/s2.png'), url('https://library.elementor.com/resources/christmas-snow-effect/s3.png');
+     animation: snow 30s linear infinite;
+ }
+
+ @keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+ }/* End custom CSS */
