@@ -39,8 +39,8 @@
     <meta property="article:tag" content="protokol indonesia">
     <meta property="article:section" content="Ani">
     {{-- <meta property="og:updated_time" content="2021-07-31T14:22:17+07:00"> --}}
-    <meta property="og:image" itemprop="image" content="{{ asset('img/g3p.jpg') }}">
-    <meta property="og:image:secure_url" itemprop="image" content="{{ asset('img/g3p.jpg') }}">
+    <meta property="og:image" itemprop="image" content="{{ asset('img/g3.jpg') }}">
+    <meta property="og:image:secure_url" itemprop="image" content="{{ asset('img/g3.jpg') }}">
     <meta property="og:image:width" content="800">
     <meta property="og:image:height" content="800">
     <meta property="og:image:alt" content="Ani & Hamdan">
